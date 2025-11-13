@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Fix GNOME issues on ThinkPad X390 Yoga running Linux Mint 22.1
-# Author: Rohan
+# Author: Diode-exe
 # Version: 1.0
 # Tested on Mint 22.1 (Ubuntu 22.04 base)
 
